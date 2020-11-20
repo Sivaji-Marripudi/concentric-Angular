@@ -1,0 +1,13 @@
+.navv{
+    list-style-type: none;
+    
+}
+.navv li{
+    display: inline-block;
+    padding-left: 30px;
+    
+}
+.containerr{
+    color: white;
+    background-color: black;
+}
